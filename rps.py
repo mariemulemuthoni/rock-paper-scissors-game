@@ -116,8 +116,8 @@ print(result) # Prints the result of the game
 '''
     choices = {"Player": "rock", "Computer": "paper"}
 
-    p_choice = choices["Player"]
-    c_choice = choices["Computer"]
+    p_choice = choices["Player"] 
+    c_choice = choices["Computer"] 
 
     print(p_choice)
     print(c_choice)
